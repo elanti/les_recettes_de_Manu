@@ -1,0 +1,1 @@
+{"config":{"lang":["fr"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Les recettes de Manu","text":""},{"location":"2023/06/30/recette-1/","title":"Recette 1","text":"<p>Tr\u00e8s bonne recette !</p> <p>Du texte en plus pour expliquer</p>"},{"location":"category/entr%C3%A9e/","title":"Entr\u00e9e","text":""}]}
