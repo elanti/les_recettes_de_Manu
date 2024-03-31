@@ -26,6 +26,6 @@ plugins:
   # - pdf-export
   - blog:
       blog_dir: .
-      blog_toc: false
+      blog_toc: true
       draft_on_serve: true
       archive: false
