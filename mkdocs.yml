@@ -1,0 +1,31 @@
+site_name: Les recettes de Manu
+site_description: Les recettes de Manu
+site_url:
+site_author: Manu
+
+nav:
+  - Recettes:
+      - index.md
+
+theme:
+  name: material
+#  logo: images/epfl_logo.png
+  language: fr
+
+markdown_extensions:
+  # Support for image properties and stuff
+  - abbr
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: "#"
+      separator: "-"
+
+plugins:
+  - search
+  # - pdf-export
+  - blog:
+      blog_dir: .
+      blog_toc: false
+      draft_on_serve: true
+      archive: false
