@@ -11,6 +11,7 @@ Recette de petits buns briochés, excellents pour toute recette de burger.
 
 ## Ingredients
 Pour 9 buns:
+
  - 30 g de farine
  - 40 g d'eau
  - 95 g de lait

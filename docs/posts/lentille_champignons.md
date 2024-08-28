@@ -9,6 +9,7 @@ date: 2020-04-27
 
 ## Ingredients
 Pour 4 personnes:
+
  - 1 carotte coupée en morceau
  - 10 cm de poireau taillé en rondelles
  - 1 oignon coupé grossièrement

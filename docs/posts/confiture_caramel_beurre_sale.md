@@ -9,6 +9,7 @@ date: 2024-03-31
 
 ## Ingredients
 Pour 1 bocal:
+
  - 200 g de sucre blanc
  - 100 g d'eau
  - 300 g de crème entière
