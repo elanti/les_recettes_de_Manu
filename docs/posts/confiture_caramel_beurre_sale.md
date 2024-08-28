@@ -10,11 +10,11 @@ date: 2024-03-31
 ## Ingredients
 Pour 1 bocal:
 
- - 200 g de sucre blanc
- - 100 g d'eau
- - 300 g de crème entière
- - 60 g de beurre salé
- - Extrait de vanille
+- 200 g de sucre blanc
+- 100 g d'eau
+- 300 g de crème entière
+- 60 g de beurre salé
+- Extrait de vanille
  
 ## Marche à suivre
  - Mettre le sucre et l'eau dans une casserole sans remuer.

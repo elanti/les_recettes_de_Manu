@@ -12,20 +12,20 @@ Recette de petits buns briochés, excellents pour toute recette de burger.
 ## Ingredients
 Pour 9 buns:
 
- - 30 g de farine
- - 40 g d'eau
- - 95 g de lait
- - 250 g d'eau
- - 42 g de levure fraîche (1 cube)
- - 25 g de sucre
- - 40 g de poudre de lait
- - 500 g de farine
- - 10 g de sel
- - 65 g de beurre mou
+- 30 g de farine
+- 40 g d'eau
+- 95 g de lait
+- 250 g d'eau
+- 42 g de levure fraîche (1 cube)
+- 25 g de sucre
+- 40 g de poudre de lait
+- 500 g de farine
+- 10 g de sel
+- 65 g de beurre mou
 
 ## Marche à suivre
  - Dans une casserole, mélanger les 30 g de farine, 40 g d'eau et les 95 g de
-   lait. Faire chauffer,tout en remuant constanment, jusqu'à ce qu'une pâte
+   lait. Faire chauffer,tout en remuant constamment, jusqu'à ce qu'une pâte
    gélatineuse se forme.
  - Dans un bol, mélanger la pâte gélatineuse, l'eau, la levure, le sucre et la
    poudre de lait. Ajouter la farine, le sel et mélanger jusqu'à ce qu'une boule

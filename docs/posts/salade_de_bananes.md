@@ -10,11 +10,11 @@ date: 2021-01-18
 ## Ingredients
 Pour 5 personnes:
 
- - 500 ml d'eau
- - 120 g de sucre
- - 1 citron vert
- - 1/2 orange
- - 4 bananes
+- 500 ml d'eau
+- 120 g de sucre
+- 1 citron vert
+- 1/2 orange
+- 4 bananes
  
 ## Marche à suivre
  - Préparer un sirop en faisant bouillir l'eau et le sucre pendant quelques

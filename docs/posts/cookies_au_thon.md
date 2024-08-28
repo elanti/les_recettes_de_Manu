@@ -10,19 +10,19 @@ date: 2022-05-13
 ## Ingredients
 Pour 24 cookies:
 
- - 2 boîtes de thon
- - 2 boîtes de sardines
- - 200 g de farine
- - 1/2 sachet de levure chimique
- - 90 g de beurre mou
- - 2 petit suisse
- - 100 g de parmesan
- - 2 c-à-s de concentré de tomate
- - 12 tomates séchées
- - 2 oeufs
- - 1/2 bouquet de persil
- - sel et poivre
- - 1 petite échalotte
+- 2 boîtes de thon
+- 2 boîtes de sardines
+- 200 g de farine
+- 1/2 sachet de levure chimique
+- 90 g de beurre mou
+- 2 petit suisse
+- 100 g de parmesan
+- 2 c-à-s de concentré de tomate
+- 12 tomates séchées
+- 2 oeufs
+- 1/2 bouquet de persil
+- sel et poivre
+- 1 petite échalotte
 
 ## Marche à suivre
  - Mélanger le poisson, le persil ciselé, et l'échalotte
