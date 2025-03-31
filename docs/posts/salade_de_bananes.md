@@ -7,7 +7,7 @@ date: 2021-01-18
 # Salade de bananes
 <!-- more -->
 
-## Ingredients
+## Ingrédients
 Pour 5 personnes:
 
 - 500 ml d'eau

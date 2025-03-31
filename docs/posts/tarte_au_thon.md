@@ -7,7 +7,7 @@ date: 2020-05-01
 # Tarte au thon
 <!-- more -->
 
-## Ingredients
+## Ingrédients
  - 1 pâte feuilletée
  - 2 grosses boîtes de thon
  - quelques olives noires

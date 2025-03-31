@@ -7,7 +7,7 @@ date: 2022-05-13
 # Cookies au thon
 <!-- more -->
 
-## Ingredients
+## Ingrédients
 Pour 24 cookies:
 
 - 2 boîtes de thon

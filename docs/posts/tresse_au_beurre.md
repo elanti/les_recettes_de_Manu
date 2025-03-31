@@ -10,7 +10,7 @@ boulangerie !
 
 <!-- more -->
 
-## Ingredients
+## Ingrédients
  - 500 g de farine
  - 10 g de sel
  - 15 g de sucre

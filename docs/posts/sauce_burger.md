@@ -10,7 +10,7 @@ préparer le jour d'avant pour une sauce encore meilleure.
 
 <!-- more -->
 
-## Ingredients
+## Ingrédients
  - 2 oignons
  - 1 cuillère à soupe de beurre
  - 180 g de mayonnaise

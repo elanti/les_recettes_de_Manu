@@ -7,7 +7,7 @@ date: 2020-04-27
 # Lentilles vertes aux champignons
 <!-- more -->
 
-## Ingredients
+## Ingrédients
 Pour 4 personnes:
 
 - 1 carotte coupée en morceau

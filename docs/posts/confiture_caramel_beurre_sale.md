@@ -7,7 +7,7 @@ date: 2024-03-31
 # Confiture de caramel au beurre salé
 <!-- more -->
 
-## Ingredients
+## Ingrédients
 Pour 1 bocal:
 
 - 200 g de sucre blanc

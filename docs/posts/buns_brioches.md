@@ -9,7 +9,7 @@ Recette de petits buns briochés, excellents pour toute recette de burger.
 
 <!-- more -->
 
-## Ingredients
+## Ingrédients
 Pour 9 buns:
 
 - 30 g de farine
